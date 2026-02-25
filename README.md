@@ -1,18 +1,18 @@
-Portfolio
+#Portfolio
 
 Miller DeMark
 Montana Tech
 Computer Science 2026
 
-About Portfolio
+###About Portfolio
 
 I’ll be keeping shorter documentation on this portfolio for simplicity’s sake. Full code, designs, and more can be seen on the respective repositories; this portfolio is meant to be a quick peek into projects.
 
-About Me
+##About Me
 
 My name is Miller DeMark, I am a Computer Science major, due for graduation in Summer 2026 from Montana Tech. I got my start in CS in high school, working for our IT department. From there, my passion for technology flourished into the skills I have developed today. These skills include, but are not limited to, programming in many different languages, embedded systems, networking, game design, and data mining. In my free time, I like to fish, mountain bike, hunt with my dog, and work on home projects to expand my knowledge in these fields. I hope this portfolio serves as a useful tool in judging my experience and technical ability.
 
-Project Outlines
+##Project Outlines
 
 * Homelab Hospital Network (docs/repo)
 This is a custom network setup I created using a 4 port NIC, 4 virtual machines, a Cisco Router, and a Cisco Switch to emulate a hospital network and how different VLANs would function together. This is further tied together with the use of open source software to fully emulate the computers and software that may be used between departmetns.
