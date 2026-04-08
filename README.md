@@ -14,7 +14,7 @@ My name is Miller DeMark, I am a Computer Science major, due for graduation in S
 
 ## Project Outlines
 
-- Binary Counter ([docs]()/[repo]())</br>
+- Binary Counter ([docs]()/[repo](https://github.com/mdemark18/SAMD-Binary-Counter/tree/Miller's-Portfolio))</br>
 This is a binary counter that our Electrical Engineering Department uses for student outreach. The hardware was designed by Bryce Hill, I programmed it to be used as per his specifications. It counts up on the LED Bar in binary up to 1023. With the ARM chip we use, it also has built in UART, allowing users to connect to it via serial communiation and n control it from a terminal.
 - Miller’s Games ([docs](docs/millers-games-doc.md)/[website](https://millersgames.free.nf/index.php)/[repo](https://github.com/mdemark18/WebProgramming25))</br>
 This is a website I created for my Web Programming course in Spring 2025. This site is a fucntional game marketplace much like BestBuy’s site or Gamestop’s. All features are functional, short of actually having stock and shipping it to you! The website is currently hosted through InfinityFree and has a default site name. Everything else is as seen in my code within my repository.
